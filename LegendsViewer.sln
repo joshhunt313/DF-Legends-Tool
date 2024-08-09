@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendsViewer.Api", "LegendsViewer.Api\LegendsViewer.Api.csproj", "{B43DFE65-561E-4432-A1F8-F6BF935F80BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendsViewer.Common", "LegendsViewer.Common\LegendsViewer.Common.csproj", "{B913F8F7-C1E4-45E5-81BF-7EC5A206525C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43DFE65-561E-4432-A1F8-F6BF935F80BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43DFE65-561E-4432-A1F8-F6BF935F80BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43DFE65-561E-4432-A1F8-F6BF935F80BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43DFE65-561E-4432-A1F8-F6BF935F80BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B913F8F7-C1E4-45E5-81BF-7EC5A206525C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B913F8F7-C1E4-45E5-81BF-7EC5A206525C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B913F8F7-C1E4-45E5-81BF-7EC5A206525C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B913F8F7-C1E4-45E5-81BF-7EC5A206525C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
